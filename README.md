@@ -1,5 +1,8 @@
 # Jan Sahayak – AI Welfare Scheme Assistant 🇮🇳
 
+> **"Jan Sahayak: Ab Har Adhikar, Aapki Bhasha Mein."**
+> *Bridging the gap between government welfare and every Indian citizen through AI.*
+
 Jan Sahayak is an AI-powered assistant designed to help Indian citizens discover, understand, and stay informed about government welfare schemes in a simple and accessible way.
 
 ---
